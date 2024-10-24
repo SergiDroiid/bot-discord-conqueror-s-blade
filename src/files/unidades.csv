@@ -1,0 +1,131 @@
+﻿amarillo;caballeria;ballesteros montados;295;Arbol de Unidades;;;rattan rangers;
+amarillo;caballeria;caballeros monásticos;305;Arbol de Unidades;;;monastic knights;
+amarillo;caballeria;caballeria de yanyuedao;320;eternal;;;yanyuedao;
+amarillo;caballeria;caballeria pesada de xuanjia;315;Dragonrise;;;caballeria rompenubes;xuanjia;xuanjia heavy cavalry
+amarillo;caballeria;gendarmes reales;340;Paragons;;;chevaliers;royal gendarmes
+amarillo;caballeria;húsares alados;305;Arbol de Unidades;;;winged hussars;husares
+amarillo;caballeria;keshigs;300;wrath of the nomads;;;kheshigs;
+amarillo;caballeria;lanceros de catafracto;305;Arbol de Unidades;;;cataphract lancers;
+amarillo;caballeria;lanceros de fuego;285;Arbol de Unidades;;;fire lancers;
+amarillo;caballeria;montaraces de liao;315;ventisca;;;caballería lancera del norte;liaos;liao rangers
+amarillo;infanteria;batallón modao;315;dinastía;;;modao battalion;
+amarillo;infanteria;caballeros de la reina;295;Avalon;;;queen's knights;
+amarillo;infanteria;doncellas escuderas;280;nórdicos;;;guardia de sigrun,shieldmaidens;
+amarillo;infanteria;falange hacia el sol;300;Alexander;;;falange del sol;falange solar;solar phalanx
+amarillo;infanteria;guardia varega;290;Helheim;;;varangian guards;
+amarillo;infanteria;hashasins;295;Scorpio;;;-;
+amarillo;infanteria;segadores de hierro;300;Arbol de unidades;Unidad de infantería, ;;iron reapers;
+amarillo;infanteria;samurais orochis;295;Sengoku;;;orochis;
+amarillo;infanteria;silahdars;300;ciudad solitaria del imperio;;;guardia jenízara;
+amarillo;infanteria;zweihanders;310;Knighfall;;;-;
+amarillo;distancia;arcabuceros de tercio;280;Arbol de Unidades;;;tercio arquebusiers;
+amarillo;distancia;artilleros falconetti;300;gilded age;;;falconetti gunners;falconetti
+amarillo;distancia;ballesteros con pavés;280;gilded age;;;pavise crossbowmen;paves;ballesteros con paves
+amarillo;distancia;cazadores con perro;310;tiranía;;;Highlanders;Houndsmen;
+amarillo;distancia;granaderos shenji;315;tiranía;;;shenji grenadiers;granaderos de shenji;
+amarillo;distancia;retiarii;305;Colisseum;;;-;
+amarillo;distancia;siphonarioi;300;expedición;;;guardia prohibida;
+morado;infanteria;sargentos alabarderos;230;-;;;halberdier sergeants;
+morado;infanteria;piqueros imperiales;240;-;;;imperial pike guards;
+morado;infanteria;guardias de palacio;230;-;;;palace guards;
+morado;infanteria;lanceros imperiales;240;-;;;imperial spear guards;puertas
+morado;distancia;sargentos jabalineros;230;Arbol de Unidades;;;javelin sergeants;
+morado;distancia;jabalineros imperiales;240;-;;;imperial javelineers;
+morado;distancia;arqueros vasallos;245;-;;;vassal longbowmen;
+morado;distancia;arqueros imperiales;235;-;;;imperial archers;
+morado;distancia;fusileros kriegsrat;245;-;;;kriegsrat fusiliers;
+morado;distancia;arcabuceros imperiales;245;-;;;imperial arquebusiers;
+morado;distancia;arcabuceros ashigarus;205;-;;;ashigarus;
+morado;caballeria;yeomen;225;-;;;-;
+morado;caballeria;caballería pesada de prefectura;225;-;;;prefecture heavy cavalry;caballeria pesada de prefectura;
+morado;caballeria;lanceros con hacha-daga;245;-;;;dagger axe lancers;
+morado;caballeria;kriegsbruders;230;knighfall;;;kriegsburgers;
+morado;caballeria;lanceros a camello;235;Scorpio;;;camellos;
+morado;caballeria;lanceros armigueros;235;Scourge of Winter;;;lancero armiguero;
+morado;infanteria;sargentos lanceros;215;-;;;spear sergeants;
+morado;infanteria;guardia real perceval;225;Avalon;;;perceval;
+morado;infanteria;hombres de armas;235;-;;;men at arms;men-at-arms
+morado;infanteria;monjes de medialuna;250;Eternal;;;-;
+morado;infanteria;onna-musha;235;Sengoku;;;onnamusha;
+morado;infanteria;guardianes del estandarte;225;Paragons;;;-;
+morado;infanteria;guardias de wuwei;235;Dragonrise;;;wuwei;
+morado;infanteria;huscarles;230;Helheim;;;-;
+morado;infanteria;murmillones;245;Colosseum;;;-;
+morado;infanteria;tseregs;225;wrath of the nomads;;;-;
+morado;caballeria;caballería khevtuul;215;wrath of the nomads;;;khevtuul cavalry;caballeria khevtuul;caballería khevtul;caballeria khevtul;
+morado;infanteria;piqueros fortebraccio;235;gilded age;;;fortebraccio pikemen;
+morado;infanteria;azaps;225;ciudad solitaria del imperio;;;pagodas;fuerzas armadas del imperio
+morado;caballeria;caballería de cipayo;215;ciudad solitaria del imperio;;;sipahis;caballeria de cipayos;caballería de cipayo;caballería de cipayos;
+morado;caballeria;caballeria de compañia;215;Alexander;;;caballería de compañía
+morado;distancia;plumas porcinas;235;Lionfire;;;-;
+morado;infanteria;proselitos simaquios;240;expedición;;;symmachean stalwarts;
+morado;distancia;milicia de hacheros;230;Tyranny;;;Axe-raiders;
+morado;infanteria;paladines simaquios;235;expedición;;;caballero de la expedición;symmachean paladins;paladines
+morado;infanteria;claymores;235;Highlanders;;;-;
+morado;infanteria;berserker;245;nórdicos;;;berserkers;
+morado;infanteria;guarnición de veteranos;200;dinastía;;;greyhair garrison;guarnición pelogris;immortal garrison
+azul;infanteria;alabarderos;165;-;;;halberdiers;
+azul;infanteria;piqueros del dragón negro;80;mercenarios;;;black dragon pikemen;
+azul;infanteria;piqueros de prefectura;165;-;;;prefecture pikemen;
+azul;infanteria;guardias de prefectura;170;-;;;prefecture guards;
+azul;infanteria;lanceros del dragón negro;80;mercenarios;;;black dragon spearmen;
+azul;infanteria;lanceros yelmo de hierro;130;-;;;ironcap spearmen;
+azul;infanteria;jabalineros del dragón negro;115;mercenarios;;;black dragon javelineers;
+azul;infanteria;condotierros;160;Soldiers of Fortune;;;condotierro;
+azul;infanteria;jangjus;155;Scorpio;;;-;
+azul;distancia;lanzadores psiloi;90;Alexander;;;-;
+azul;caballeria;pistoleros reitar;180;Lionfire;;;-;
+azul;infanteria;ballesteros emplumados;160;Dragonrise;;;-;
+azul;infanteria;caballeria caradoc;195;Avalon;;;-;
+azul;infanteria;naginata;125;;;;-;
+azul;infanteria;schutzdieners;165;KnightFall;;;-;
+azul;infanteria;sargentos maceros;150;Sengoku;;;-;
+azul;infanteria;ronin;145;Sengoku;;;-;
+azul;infanteria;piqueros de wuxing;155;Eternal;;;-;
+azul;distancia;arqueros de fuego;180;-;;;incendiary archers;
+azul;distancia;arbalesteros de señorio;160;-;;;demesne arbalists;
+azul;distancia;arqueros de vanguardia;150;-;;;vanguard archers;
+azul;distancia;arqueros de prefectura;180;-;;;prefecture archers;
+azul;distancia;arcabuceros de señorío;170;-;;;demesne arquebusiers;
+azul;distancia;tiradores del ciervo blanco;100;mercenarios;;;sea stag deathdealers;
+azul;distancia;arqueros víbora;155;-;;;rattan vipers;
+azul;distancia;tiradores con chu-ko-nu;175;-;;;rattan marksmen;
+azul;infanteria;escuderos;155;-;;;squires;
+azul;distancia;arqueros namkhan;180;wrath of the nomads;;;namkhan archers;
+azul;caballeria;caballería selemchid;150;wrath of the nomads;;;selemchid cavalry;
+azul;caballeria;khorchins;140;wrath of the nomads;;;-;
+azul;caballeria;batidores;180;tyranny;;;batidores de elite;
+azul;infanteria;condotieros;170;gilded age;;;condottieri guards;condottieri
+azul;distancia;mosquetes jenízaros;180;ciudad solitaria del imperio;;;janissaries;
+azul;distancia;milicia zykalia ;175;expedición;;;zykalian militia;fuego salvaje barciano
+azul;infanteria;lansquenetes;165;ventisca;;;landsknechts;alabarderos alpinos
+azul;infanteria;hijos de fenrir;165;nórdicos;;;sons of fenrir;
+azul;infanteria;gaiteros;90;Highlander;;;-;
+azul;infanteria;dimachaeri;165;Colosseum;;;-;
+azul;infanteria;alquimistas;60;Pargons;;;-;
+azul;infanteria;monjes guerreros;145;dinastía;;;cudgel monks;
+verde;infanteria;piqueros milicianos;110;-;;;pike militia;
+verde;infanteria;espadachines yelmo de hierro;100;-;;;ironcap swordsmen;
+verde;infanteria;jabalineros de señorío;105;-;;;demesne javelineers;
+verde;infanteria;jabalineros milicianos;105;-;;;javelin militia;
+verde;distancia;arqueros de señorío;110;-;;;demesne archers;
+verde;distancia;ballesteros de señorío;140;-;;;demesne crossbowmen;
+verde;distancia;arqueros yelmo de hierro;135;-;;;ironcap archers;
+verde;distancia;arcabuceros yelmo de hierro;120;-;;;ironcap arquebusiers;
+verde;caballeria;coustilleux;90;-;;;coutiliers;
+verde;caballeria;caballería ligera yelmo de hierro;105;-;;;ironcap scout cavalry;
+verde;caballeria;arqueros montados yelmo de hierro;105;-;;;ironcap bowriders;
+verde;infanteria;lanceros de señorío;125;-;;;demesne spearmen;
+verde;infanteria;espadachines con ratán;115;-;;NO RECOMENDABLE;rattan roundshields;
+verde;infanteria;piqueros con ratán;115;-;;NO RECOMENDABLE;rattan pikemen;
+verde;distancia;arqueros del dragón negro;60;mercenarios;;RECOMENDABLE;black dragon archers;
+blanco;infanteria;medieros;40;-;Unidad de infantería, MEDIANAMENTE RECOMENDABLE para la recolección debido a su pasiva. En caso de ocuparla en ataque, optar por la rama del medio.;MEDIANAMENTE RECOMENDABLE;tenant farmers;
+blanco;infanteria;piqueros de señorío;55;-;;NO RECOMENDABLE;demesne pikemen;
+blanco;infanteria;centinelas aldeanos;30;-;Unidad de infantería, MEDIANAMENTE RECOMENDABLE para la recolección debido a su pasiva. En caso de ocuparla en ataque, optar por la rama del medio. A diferencia de las demás tropas de farmeo, esta en pocos niveles puedes farmear.;MEDIANAMENTE RECOMENDABLE;village watchmen;
+blanco;infanteria;siervos;40;-;Unidad de infantería, RECOMENDABLE para la recolección debido a su pasiva. En caso de ocuparla en ataque, optar por la rama de arriba. A diferencia de las demás tropas de farmeo, esta en pocos niveles puedes farmear.;RECOMENDABLE;serfs;
+blanco;infanteria;espadachines milicianos;65;-;;NO RECOMENDABLE;sword militia;
+blanco;infanteria;leñadores;40;-;Unidad de infantería, MEDIANAMENTE RECOMENDABLE para la recolección debido a su pasiva. En caso de ocuparla en ataque, optar por la rama del medio. A diferencia de las demás tropas de farmeo, esta en pocos niveles puedes farmear.;MEDIANAMENTE RECOMENDABLE;woodcutters;
+blanco;infanteria;martellatori;30;mercenarios;;;-;
+blanco;infanteria;lanceros milicianos;80;-;;NO RECOMENDABLE;spear militia;
+blanco;distancia;arqueros de leva;50;-;;NO RECOMENDABLE;levy bowmen;
+blanco;distancia;arqueros milicianos;45;-;;NO RECOMENDABLE;archer militia;
