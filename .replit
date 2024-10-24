@@ -1,0 +1,10 @@
+modules = ["nodejs-20"]
+run = "npm start main.js"
+
+[nix]
+channel = "stable-24_05"
+
+[deployment]
+run = ["sh", "-c", "npm start main.js"]
+deploymentTarget = "gce"
+ignorePorts = true

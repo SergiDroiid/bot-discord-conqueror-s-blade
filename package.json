@@ -1,0 +1,27 @@
+{
+  "name": "bot-cb",
+  "version": "0.1.0",
+  "description": "Bot que mostrará información relacionada al juego Conqueror's Blade.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Javadod/bot-cb.git"
+  },
+  "keywords": [],
+  "author": "Javadod",
+  "license": "GNU General Public License v3.0",
+  "bugs": {
+    "url": "https://github.com/Javadod/bot-cb/issues"
+  },
+  "homepage": "https://github.com/Javadod/bot-cb#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.13.0"
+  }
+}
